@@ -13,6 +13,7 @@ module.exports = {
     'prettier/prettier': ['error', { endOfLine: 'auto' }],
     'class-methods-use-this': 'off',
     'no-params-reassign': 'off',
+    'arrow-body-style': 'off',
     camelcase: 'off',
     'no-unused-vars': ['error', { argsIgnorePattern: 'next' }],
   },
